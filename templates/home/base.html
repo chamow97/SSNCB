@@ -65,17 +65,20 @@
 					</div>
 				</div>
  			</div>
-			<h1 class="logo"><a href="index1.html"><img src="{% static 'assets/images/logo.png' %}" alt="Logo"></a></h1>
+			<h1 class="logo" style="width: 2%; height: auto; margin-left: -10px;"><a href="#"><img src="{% static 'assets/images/logo.png' %}" alt="Logo"></a></h1>
 		</div>
 
 	</div>
 
-	<a href="#" class="scrolldown"><span></span></a>
+{#	<a href="#" class="scrolldown"><span></span></a>#}
 </header>
+<main>
+{% block content %}
+{% endblock %}
+</main>
 <footer>
-
-	<div class="container">
-		<div class="row">
+	<div class="container" style="margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;" >
+		<div class="row" >
 			<div class="col-md-4 col-sm-6 col-xs-12">
 				<h1 class="logo"><a href="index.html"><img src="{% static 'assets/images/logo.png' %}" alt="Logo"></a></h1>
 				<ul class="contactinfo">
@@ -98,11 +101,7 @@
 
 
 		</div>
-		<div class="row botbar">
-			<div class="col-sm-7">
-				<p class="copyright">Copyright 2017 &copy; SSN Code Busters - Online Programming Judge  | All Rights Reserved</p>
-			</div>
-		</div>
+
 	</div>
 
 </footer>

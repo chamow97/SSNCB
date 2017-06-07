@@ -7,6 +7,8 @@ h1, h2, h3, h4, h5, h6, p, ul{
 *{
 	outline: 0;
 }
+body {padding:0;margin:0;}
+
 
 html,body{
 	overflow-x: hidden;
@@ -84,7 +86,7 @@ h3::after{
 }
 
 .homepage header:before{
-	padding-bottom: 48.385%;
+	padding-bottom: 15%;
 	content: "";
 	float: left;
 }
@@ -2941,6 +2943,7 @@ h4 + .recent-post{
 
 footer{
 	background-color: #213c50;
+	margin-top: 50px;
 }
 
 footer .logo{
@@ -3341,4 +3344,15 @@ footer .botbar{
 		width: 100%;
 	}
 
+}
+/*slideshow*/
+.slideshowImage{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	height: 50%;
+	width:auto;
+}
+li.active{
+	color: #ffffff;
 }
