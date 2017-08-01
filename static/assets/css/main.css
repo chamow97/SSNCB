@@ -7,7 +7,11 @@ h1, h2, h3, h4, h5, h6, p, ul{
 *{
 	outline: 0;
 }
-body {padding:0;margin:0;}
+body {
+	padding:0;
+	margin:0;
+	background-color: white;
+}
 
 
 html,body{
@@ -179,6 +183,8 @@ nav ul li{
 nav > ul > li > a{
 	display: inline-block;
 	height: 97px;
+	color: #000000;
+
 }
 
 .submenu.clearfix{
@@ -208,7 +214,7 @@ nav > ul > li > a{
 }
 
 nav > ul > li > a:hover{
-	border-bottom: 2px solid #12c8fc;
+	border-bottom: 2px solid #000000;
 }
 
 nav > ul > li:hover .submenu{
@@ -317,12 +323,13 @@ nav > ul > li:hover .submenu{
 .register:hover{
 	text-decoration: none;
 	transition: background-color 0.5s ease;
-	color: #fff;
+	color: #000;
 }
 
 .blueplay{
 	padding: 8px 12px 8px 0;
-	border: 1px solid rgba(255,255,255,0.15);
+	border: 1px solid #000000;
+	color: #000000;
 }
 
 .blueplay:hover{
@@ -2313,7 +2320,24 @@ aside.categories ul li:not(:last-child),
 	position: absolute;
 	top: -4px;
 }
-
+#heading{
+    font-size: 300%;
+    text-align: center;
+}
+.fields{
+    height: 30px;
+    border-radius: 8%;
+}
+#heading1{
+    font-size: 35px;
+	color: black;
+}
+.reg-form{
+    background-color: #c2cbb6;
+    color: #000000;
+    margin-top: 7%;
+    text-align: center;
+}
 .contact input,
 .contact textarea{
 	width: 100%;
@@ -3355,4 +3379,7 @@ footer .botbar{
 }
 li.active{
 	color: #ffffff;
+}
+nav{
+	border-bottom: 2px solid black;
 }
