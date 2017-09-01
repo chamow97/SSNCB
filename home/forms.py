@@ -9,9 +9,11 @@ class UserForm(forms.ModelForm):
     class Meta:
         model = User
         widgets = {
-            'username': forms.TextInput(),
-            'email': forms.EmailInput(),
-            'password': forms.PasswordInput(),
+            'username': forms.TextInput(attrs={'placeholder': 'Username'}),
+            'email': forms.EmailInput(attrs={'placeholder': 'E-mail'}),
+            'password': forms.PasswordInput(attrs={'placeholder': 'Password'}),
         }
         fields = ['username', 'email', 'password']
+
+
 

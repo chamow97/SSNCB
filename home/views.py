@@ -62,3 +62,6 @@ def logout_user(request):
     }
     return render(request, 'home/login_user.html')
 
+def construction(request):
+    return render(request, 'home/construction.html')
+
