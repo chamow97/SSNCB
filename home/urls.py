@@ -6,7 +6,9 @@ app_name='home'
 
 urlpatterns = [
     url(r'^$', views.index, name='index'),
-    url(r'^login_user$', views.login_user, name='login_user'),
+    url(r'^enter$', views.enter, name='enter'),
     url(r'^register$', views.UserFormView.as_view(), name='register'),
-    url(r'^construction', views.construction, name='construction')
+    url(r'^construction', views.construction, name='construction'),
+    url(r'^logout_user', views.logout_user, name='logout_user'),
+
 ]

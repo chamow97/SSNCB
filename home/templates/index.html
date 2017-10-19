@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block content %}
+    <div id="slideshow" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li  data-target="#slideshow" data-slide-to="0" class="active"></li>
+        <li data-target="#slideshow" data-slide-to="1"></li>
+        <li data-target="#slideshow" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+
+        <div class="item active">
+            <img style="height: 300px;" class="slideshowImage" src="{% static 'assets/images/coder_month.png' %}" alt="Coder of the month!">
+        </div>
+        <div class="item">
+            <img class="slideshowImage" src="{% static 'assets/images/contests.jpg' %}" alt="Contests">
+        </div>
+        <div class="item">
+            <img class="slideshowImage" src="{% static 'assets/images/practice.jpg' %}" alt="Forum">
+        </div>
+    </div>
+    <a class="left carousel-control" href="#slideshow" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+    </a>
+    <a class="right carousel-control" href="#slideshow" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+    </a>
+    </div>
+{% endblock %}

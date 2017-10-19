@@ -1,16 +1,15 @@
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
-from django.shortcuts import render, render_to_response
+from django.shortcuts import render, render_to_response, redirect
 from django.views import View
-from TwitterAPI import TwitterAPI
 from home.forms import UserForm
 
 def index(request):
-    return render(request, 'home/index.html')
+    return render(request, 'index.html')
 
 class UserFormView(View):
     form_class = UserForm
-    template_name = 'home/registration_form.html'
+    template_name = 'registration_form.html'
 
     def get(self, request):
         form = self.form_class(None)
@@ -30,11 +29,11 @@ class UserFormView(View):
             if user is not None:
                 if user.is_active:
                     login(request, user)
-                    return render(request, 'home/index.html')
+                    return render(request, 'index.html')
 
-        return render(request, 'home/'+self.template_name, {'form':form})
+        return render(request, self.template_name, {'form':form})
 
-def login_user(request):
+def enter(request):
     if not request.user.is_authenticated():
         if request.method == 'POST':
             username = request.POST["username"]
@@ -44,15 +43,15 @@ def login_user(request):
             if user is not None:
                 if user.is_active:
                     login(request, user)
-                    return render(request, 'home/index.html')
+                    return render(request, 'index.html')
                 else:
-                    return render(request, 'home/login_user.html',
+                    return render(request, 'login.html',
                                   {'error_message' : 'Your account has been disabled!'})
             else:
-                return render(request, 'home/login_user.html',
+                return render(request, 'login.html',
                               {'error_message': 'Incorrect Username / Password!'})
 
-    return render(request, 'home/login_user.html')
+    return render(request, 'login.html')
 
 def logout_user(request):
     logout(request)
@@ -60,8 +59,8 @@ def logout_user(request):
     context = {
         'form': form
     }
-    return render(request, 'home/login_user.html')
+    return redirect('/')
 
 def construction(request):
-    return render(request, 'home/construction.html')
+    return render(request, 'construction.html')
 
