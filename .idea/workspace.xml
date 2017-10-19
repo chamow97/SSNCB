@@ -2,338 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33ca9aff-0e21-4396-8cda-93ed4809b091" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatars/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatars/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatars/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatars/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatars/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatars/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatars/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatars/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatars/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatars/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatars/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatars/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/avatars/profile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/cart1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/cart2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories-bg/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories-bg/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories-bg/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories-bg/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories-bg/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories-bg/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/categories/hover-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/clients/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/clients/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/clients/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/clients/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/clients/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/clients/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/closed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/coder_month.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/comment1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/comment2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/contests.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/dropdown-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/dropdown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/email.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/featured-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/features/feature-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/features/feature-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/features/feature-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/features/feature-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/features/feature-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/features2/feature-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/features2/feature-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/features2/feature-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/features2/feature-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/features2/feature-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/header-slider/slide-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/header-slider/slide-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/header-slider/slide-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/instagram-overlay.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/instagram1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/instagram2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/instagram3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/instagram4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/instagram5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/instagram6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/instagram7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/instagram8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/location.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/payments/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/payments/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/payments/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/payments/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/payments/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/platform-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/platform/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/platform/101.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/platform/102.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/platform/103.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/platform/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/platform/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/platform/browser.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/201.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/202.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/203.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/204.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/205.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/206.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/207.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/208.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/301.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/302.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/303.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/304.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/popular/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/practice.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/ready-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/recent1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/recent2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/recent3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/right-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/signup-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/signup-background2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/starttoday.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/teacher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/images/woman-laptop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/bootstrap/fonts/glyphicons-halflings-regulard41d.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/jquery-ui/images/ui-icons_444444_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/jquery-ui/images/ui-icons_555555_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/jquery-ui/images/ui-icons_777620_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/jquery-ui/images/ui-icons_777777_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/jquery-ui/images/ui-icons_cc0000_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/jquery-ui/images/ui-icons_ffffff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/jquery-ui/jquery-ui.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/jquery-ui/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/jquery/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/material-design-iconic-font/css/material-design-iconic-font.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/material-design-iconic-font/fonts/Material-Design-Iconic-Fontd1f1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/material-design-iconic-font/fonts/Material-Design-Iconic-Fontd1f1.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/material-design-iconic-font/fonts/Material-Design-Iconic-Fontd1f1.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/rslides/responsiveslides.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/rslides/responsiveslides.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/slick/slick.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/libs/slick/slick.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/home/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/home/construction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/home/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/home/login_user.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/home/registration_form.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/backblue.gif" afterPath="$PROJECT_DIR$/bromine/backblue.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/fade.gif" afterPath="$PROJECT_DIR$/bromine/fade.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/hts-cache/new.zip" afterPath="$PROJECT_DIR$/bromine/hts-cache/new.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatar.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/1.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/10.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/11.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/12.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/2.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/3.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/4.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/5.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/6.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/7.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/8.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/9.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/profile.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/avatars/profile.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/cart1.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/cart1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/cart2.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/cart2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories-bg/1.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories-bg/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories-bg/2.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories-bg/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories-bg/3.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories-bg/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories-bg/4.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories-bg/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories-bg/5.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories-bg/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories-bg/6.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories-bg/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/1.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/2.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/3.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/4.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/5.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/6.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/7.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/8.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/hover-bg.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/categories/hover-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/clients/1.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/clients/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/clients/2.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/clients/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/clients/3.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/clients/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/clients/4.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/clients/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/clients/5.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/clients/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/clients/6.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/clients/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/closed.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/closed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/comment1.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/comment1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/comment2.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/comment2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/dropdown-hover.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/dropdown-hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/dropdown.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/dropdown.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/email.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/email.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/featured-bg.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/featured-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features/feature-1.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features/feature-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features/feature-2.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features/feature-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features/feature-3.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features/feature-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features/feature-4.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features/feature-4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features/feature-5.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features/feature-5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features2/feature-1.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features2/feature-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features2/feature-2.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features2/feature-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features2/feature-3.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features2/feature-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features2/feature-4.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features2/feature-4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features2/feature-5.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/features2/feature-5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/header-slider/slide-1.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/header-slider/slide-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/header-slider/slide-2.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/header-slider/slide-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/header-slider/slide-3.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/header-slider/slide-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram-overlay.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram-overlay.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram1.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram2.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram3.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram4.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram5.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram6.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram7.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram8.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/instagram8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/location.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/location.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/logo.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/open.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/open.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/payments/1.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/payments/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/payments/2.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/payments/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/payments/3.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/payments/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/payments/4.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/payments/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/payments/5.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/payments/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/phone.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform-bg.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/1.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/101.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/101.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/102.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/102.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/103.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/103.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/2.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/3.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/browser.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/platform/browser.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/1.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/2.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/201.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/201.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/202.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/202.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/203.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/203.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/204.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/204.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/205.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/205.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/206.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/206.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/207.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/207.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/208.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/208.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/3.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/301.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/301.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/302.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/302.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/303.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/303.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/304.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/304.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/4.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/5.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/6.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/7.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/8.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/9.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/popular/9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/preview.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/preview.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/ready-bg.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/ready-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/recent1.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/recent1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/recent2.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/recent2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/recent3.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/recent3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/right-arrow.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/right-arrow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/signup-background.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/signup-background.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/signup-background2.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/signup-background2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/starttoday.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/starttoday.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/teacher.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/teacher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/woman-laptop.jpg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/images/woman-laptop.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/fonts/glyphicons-halflings-regulard41d.eot" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/fonts/glyphicons-halflings-regulard41d.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/images/ui-icons_444444_256x240.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/images/ui-icons_444444_256x240.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/images/ui-icons_555555_256x240.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/images/ui-icons_555555_256x240.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/images/ui-icons_777620_256x240.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/images/ui-icons_777620_256x240.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/images/ui-icons_777777_256x240.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/images/ui-icons_777777_256x240.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/images/ui-icons_cc0000_256x240.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/images/ui-icons_cc0000_256x240.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/images/ui-icons_ffffff_256x240.png" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/images/ui-icons_ffffff_256x240.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/material-design-iconic-font/fonts/Material-Design-Iconic-Fontd1f1.ttf" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/material-design-iconic-font/fonts/Material-Design-Iconic-Fontd1f1.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/material-design-iconic-font/fonts/Material-Design-Iconic-Fontd1f1.woff" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/material-design-iconic-font/fonts/Material-Design-Iconic-Fontd1f1.woff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SSNCB/settings.py" afterPath="$PROJECT_DIR$/SSNCB/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/hts-cache/doit.log" afterPath="$PROJECT_DIR$/bromine/hts-cache/doit.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/hts-cache/new.lst" afterPath="$PROJECT_DIR$/bromine/hts-cache/new.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/hts-cache/new.txt" afterPath="$PROJECT_DIR$/bromine/hts-cache/new.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/hts-cache/readme.txt" afterPath="$PROJECT_DIR$/bromine/hts-cache/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/hts-cache/winprofile.ini" afterPath="$PROJECT_DIR$/bromine/hts-cache/winprofile.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/hts-log.txt" afterPath="$PROJECT_DIR$/bromine/hts-log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/index.html" afterPath="$PROJECT_DIR$/bromine/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/css/main.css" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/js/main.js" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/bootstrap/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/jquery-ui.min.css" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/jquery-ui.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/jquery-ui.min.js" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery-ui/jquery-ui.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery/jquery.js" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/jquery/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/material-design-iconic-font/css/material-design-iconic-font.min.css" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/material-design-iconic-font/css/material-design-iconic-font.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/material-design-iconic-font/fonts/Material-Design-Iconic-Fontd1f1.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/material-design-iconic-font/fonts/Material-Design-Iconic-Fontd1f1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/rslides/responsiveslides.css" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/rslides/responsiveslides.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/rslides/responsiveslides.min.js" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/rslides/responsiveslides.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/slick/slick.css" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/slick/slick.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/slick/slick.min.js" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/assets/libs/slick/slick.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/blog1.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/blog1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/blog2.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/blog2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/categories.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/contact.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/course-single.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/course-single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/courses-3-col.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/courses-3-col.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/courses-4-col.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/courses-4-col.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/courses-gallery.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/courses-gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/courses-list-sidebar.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/courses-list-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/courses-list.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/courses-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/courses-sidebar.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/courses-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/how-it-works.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/how-it-works.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/index.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/index1.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/index1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/index2.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/index2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/index3.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/index3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/pricing.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/pricing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/services-1.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/services-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/services-2.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/services-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/teacher-single.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/teacher-single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/teachers.html" afterPath="$PROJECT_DIR$/bromine/kl-webmedia.com/demo/bromine/teachers.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/admin.py" afterPath="$PROJECT_DIR$/home/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/forms.py" afterPath="$PROJECT_DIR$/home/forms.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/models.py" afterPath="$PROJECT_DIR$/home/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/urls.py" afterPath="$PROJECT_DIR$/home/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/views.py" afterPath="$PROJECT_DIR$/home/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -349,12 +21,26 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="44" lean-forward="false" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-              <folding />
+            <state relative-caret-position="568">
+              <caret line="41" column="49" lean-forward="false" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -362,7 +48,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270">
+            <state relative-caret-position="0">
               <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
               <folding />
             </state>
@@ -372,7 +58,7 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
+            <state relative-caret-position="1026">
               <caret line="61" column="14" lean-forward="false" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
@@ -384,18 +70,8 @@
       <file leaf-file-name="registration_form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/templates/registration_form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
+            <state relative-caret-position="450">
               <caret line="25" column="81" lean-forward="false" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contest.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home/templates/contest.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -414,8 +90,8 @@
       <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="252">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -426,31 +102,29 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/static/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="6336">
               <caret line="352" column="15" lean-forward="false" selection-start-line="352" selection-start-column="10" selection-end-line="352" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="construction.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home/templates/construction.html">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="-486">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/home/templates/base.html">
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-              <folding>
-                <element signature="e#2847#2853#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -501,20 +175,20 @@
         <option value="$PROJECT_DIR$/templates/home/base.html" />
         <option value="$PROJECT_DIR$/templates/home/construction.html" />
         <option value="$PROJECT_DIR$/templates/home/index.html" />
-        <option value="$PROJECT_DIR$/home/admin.py" />
         <option value="$PROJECT_DIR$/templates/home/contest.html" />
         <option value="$PROJECT_DIR$/templates/home/practice.html" />
         <option value="$PROJECT_DIR$/SSNCB/settings.py" />
         <option value="$PROJECT_DIR$/home/templates/index.html" />
         <option value="$PROJECT_DIR$/home/templates/construction.html" />
         <option value="$PROJECT_DIR$/home/templates/login.html" />
-        <option value="$PROJECT_DIR$/home/models.py" />
         <option value="$PROJECT_DIR$/home/templates/registration_form.html" />
         <option value="$PROJECT_DIR$/home/forms.py" />
         <option value="$PROJECT_DIR$/home/static/assets/css/main.css" />
         <option value="$PROJECT_DIR$/home/views.py" />
         <option value="$PROJECT_DIR$/home/urls.py" />
         <option value="$PROJECT_DIR$/home/templates/base.html" />
+        <option value="$PROJECT_DIR$/home/admin.py" />
+        <option value="$PROJECT_DIR$/home/models.py" />
       </list>
     </option>
   </component>
@@ -544,6 +218,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -653,12 +328,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../food_management_system" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IEEESB_live" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -899,24 +573,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1366" height="741" extended-state="7" />
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35897437" sideWeight="0.5146413" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3301887" sideWeight="0.48535872" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36068377" sideWeight="0.5146413" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3301887" sideWeight="0.48535872" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25681818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26060605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -945,29 +619,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="11" lean-forward="false" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45825">
-          <caret line="3055" column="24" lean-forward="true" selection-start-line="3055" selection-start-column="24" selection-end-line="3055" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/index.html" />
+    <entry file="file://$PROJECT_DIR$/templates/home/base.html" />
+    <entry file="file://$PROJECT_DIR$/static/assets/css/main.css" />
     <entry file="file://$PROJECT_DIR$/home/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1001,22 +655,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" column="25" lean-forward="false" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/index.html" />
+    <entry file="file://$PROJECT_DIR$/templates/home/base.html" />
     <entry file="file://$PROJECT_DIR$/home/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1050,21 +690,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45600">
-          <caret line="3040" column="5" lean-forward="false" selection-start-line="3040" selection-start-column="5" selection-end-line="3040" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/templates/home/base.html" />
     <entry file="file://$PROJECT_DIR$/home/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1098,13 +725,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45600">
-          <caret line="3040" column="5" lean-forward="true" selection-start-line="3040" selection-start-column="5" selection-end-line="3040" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/css/main.css" />
     <entry file="file://$PROJECT_DIR$/home/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1112,52 +733,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/registration_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/registration_form.html" />
     <entry file="file://$PROJECT_DIR$/templates/home/login_user.html" />
-    <entry file="file://$PROJECT_DIR$/static/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47322">
-          <caret line="2629" column="22" lean-forward="false" selection-start-line="2629" selection-start-column="21" selection-end-line="2629" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="56" lean-forward="false" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/construction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/templates/home/base.html" />
+    <entry file="file://$PROJECT_DIR$/templates/home/construction.html" />
+    <entry file="file://$PROJECT_DIR$/templates/home/index.html" />
     <entry file="file://$PROJECT_DIR$/home/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1166,56 +747,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/practice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/contest.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/home/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/home/construction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/home/contest.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/practice.html" />
+    <entry file="file://$PROJECT_DIR$/templates/home/contest.html" />
+    <entry file="file://$PROJECT_DIR$/home/templates/home/base.html" />
+    <entry file="file://$PROJECT_DIR$/home/templates/home/construction.html" />
+    <entry file="file://$PROJECT_DIR$/home/templates/home/contest.html" />
     <entry file="file://$PROJECT_DIR$/SSNCB/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -1228,7 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1244,7 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1252,7 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1274,7 +807,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/registration_form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
+        <state relative-caret-position="450">
           <caret line="25" column="81" lean-forward="false" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
           <folding />
         </state>
@@ -1282,7 +815,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/static/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="6336">
           <caret line="352" column="15" lean-forward="false" selection-start-line="352" selection-start-column="10" selection-end-line="352" selection-end-column="15" />
           <folding />
         </state>
@@ -1296,18 +829,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="44" lean-forward="false" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="252">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
@@ -1316,7 +841,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
+        <state relative-caret-position="1026">
           <caret line="61" column="14" lean-forward="false" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
@@ -1326,7 +851,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
+        <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
           <folding />
         </state>
@@ -1334,10 +859,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="-486">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding>
-            <element signature="e#2847#2853#0#HTML" expanded="true" />
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="41" column="49" lean-forward="false" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
