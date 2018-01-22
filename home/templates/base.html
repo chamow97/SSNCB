@@ -13,6 +13,7 @@
     <script src="{% static 'assets/libs/jquery-ui/jquery-ui.min.js' %}"></script>
     <script src="{% static 'assets/libs/slick/slick.min.js' %}"></script>
     <script src="{% static 'assets/libs/toastr/build/toastr.min.js' %}"></script>
+    <script src="{% static 'assets/libs/ace-builds/src-noconflict/ace.js' %}"></script>
     <script src="{% static 'assets/js/main.js' %}"></script>
 	<link rel="stylesheet" href="{% static 'assets/libs/bootstrap/css/bootstrap.min.css' %}">
 	<link rel="stylesheet" href="{% static 'assets/libs/material-design-iconic-font/css/material-design-iconic-font.min.css' %}">
@@ -46,10 +47,10 @@
 								<a href="../">Home</a>
 							</li>
 							<li>
-								<a href="../construction">Online IDE</a>
+								<a href="../editor">Online Editor</a>
 							</li>
 							<li>
-								<a href="../construction">Practice</a>
+								<a href="../practice">Practice</a>
 
 							</li>
 							<li>
@@ -63,11 +64,11 @@
                         </ul>
 					</nav>
 				</div>
-				<a href="/enter" class="blueplay login">LOGIN</a>
+				<a href="/login" class="blueplay login">LOGIN</a>
 				<a href="../register" class="register">REGISTER</a>
                 <a href="/logout_user" class="blueplay logout">LOGOUT</a>
                 &nbsp;
-				<a href="../account" class="user-profile">{{ request.user.username }}</a>
+				<a href="../account" class="user-profile btn btn-success">{{ request.user.username }}</a>
 
 				<div class="search">
 					<a href="#" class="search"><i class="zmdi zmdi-search zmdi-hc-lg"></i></a>
@@ -103,35 +104,35 @@
 {% block content %}
 {% endblock %}
 </main>
-<footer>
-	<div class="container" style="margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;" >
-		<div class="row" >
-			<div class="col-md-4 col-sm-6 col-xs-12">
-				<h1 class="logo"><a href="index.html"><img src="{% static 'assets/images/logo.png' %}" alt="Logo"></a></h1>
-				<ul class="contactinfo">
-
-				</ul>
-            </div>
-            <div class="col-md-4 col-sm-6 col-xs-12">
-
-            </div>
-            <div class="col-md-4 col-sm-6 col-xs-12">
-				<ul class="social">
-					<li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li><li>
-					<a href="#"><i class="zmdi zmdi-twitter"></i></a></li><li>
-					<a href="#"><i class="zmdi zmdi-google-old"></i></a></li><li>
-					<a href="#"><i class="zmdi zmdi-pinterest"></i></a></li><li>
-					<a href="#"><i class="zmdi zmdi-instagram"></i></a></li><li>
-					<a href="#"><i class="zmdi zmdi-rss"></i></a></li>
-				</ul>
-			</div>
-
-
-		</div>
-
-	</div>
-
-</footer>
+{#<footer>#}
+{#	<div class="container">#}
+{#		<div class="row" >#}
+{#			<div class="col-md-4 col-sm-6 col-xs-12">#}
+{#				<h1 class="logo"><a href="index.html"><img src="{% static 'assets/images/logo.png' %}" alt="Logo"></a></h1>#}
+{#				<ul class="contactinfo">#}
+{##}
+{#				</ul>#}
+{#            </div>#}
+{#            <div class="col-md-4 col-sm-6 col-xs-12">#}
+{##}
+{#            </div>#}
+{#            <div class="col-md-4 col-sm-6 col-xs-12">#}
+{#				<ul class="social">#}
+{#					<li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li><li>#}
+{#					<a href="#"><i class="zmdi zmdi-twitter"></i></a></li><li>#}
+{#					<a href="#"><i class="zmdi zmdi-google-old"></i></a></li><li>#}
+{#					<a href="#"><i class="zmdi zmdi-pinterest"></i></a></li><li>#}
+{#					<a href="#"><i class="zmdi zmdi-instagram"></i></a></li><li>#}
+{#					<a href="#"><i class="zmdi zmdi-rss"></i></a></li>#}
+{#				</ul>#}
+{#			</div>#}
+{##}
+{##}
+{#		</div>#}
+{##}
+{#	</div>#}
+{##}
+{#</footer>#}
 
 </body>
 

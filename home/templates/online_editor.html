@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+{% block content %}
+    <br>
+    <div class="row">
+        <div class="col col-sm-offset-1 col-md-offset-3 col-lg-offset-3 col-xs-offset-1">
+            <div class="form-group">
+                <label for="select_language">Select Language: </label>
+                <select id="language" class="form-control editor_dropdown select_language">
+                    {% for language in languages %}
+                        <option>{{ language.language_name }}</option>
+                    {% endfor %}
+                </select>
+                <label style="margin-left: 100px" for="select_language">Select Theme: </label>
+                <select id="theme" class="form-control editor_dropdown select_language">
+                    {% for theme in themes %}
+                        <option>{{ theme.theme_name }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+        </div>
+        <div class="col col-sm-offset-5 col-md-offset-5 col-lg-offset-5 col-xs-offset-5">
+            <button class="btn btn-success" onclick="changeLanguageTheme()">
+                Reload Editor
+            </button>
+        </div>
+    </div>
+
+    <div class="row">
+        <div id="editor">#include "iostream"
+using namespace std;
+int main(){
+    return 0;
+}
+        </div>
+        <script>
+        var editor = ace.edit("editor");
+        editor.setTheme("ace/theme/clouds_midnight");
+        editor.session.setMode("ace/mode/c_cpp");
+        editor.setOptions({
+          fontSize: "15pt"
+        });
+        function changeLanguageTheme() {
+            var language = document.getElementById("language").value;
+            var theme = document.getElementById("theme").value;
+        }
+        </script>
+    </div>
+
+{% endblock %}

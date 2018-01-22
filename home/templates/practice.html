@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
-</body>
-</html>
+{% extends 'base.html' %}
+{% block content %}
+    {% for contest in contest_list %}
+        <p>{{ contest.contest_name }}</p>
+        <br>
+    {% endfor %}
+{% endblock %}

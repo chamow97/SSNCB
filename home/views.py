@@ -3,6 +3,9 @@ from django.contrib.auth.decorators import login_required
 from django.shortcuts import render, render_to_response, redirect
 from django.views import View
 from home.forms import UserForm
+from .models import contests
+from .models import editor_language
+from .models import editor_themes
 
 def index(request):
     return render(request, 'index.html')
@@ -33,8 +36,13 @@ class UserFormView(View):
 
         return render(request, self.template_name, {'form':form})
 
+def practice(request):
+    contest_list = contests.objects.all()
+    return render_to_response('practice.html', {'contest_list': contest_list})
+
+
 def enter(request):
-    if not request.user.is_authenticated():
+    if not request.user.is_authenticated:
         if request.method == 'POST':
             username = request.POST["username"]
             password = request.POST["password"]
@@ -52,6 +60,11 @@ def enter(request):
                               {'error_message': 'Incorrect Username / Password!'})
 
     return render(request, 'login.html')
+
+def online_editor(request):
+    languages = editor_language.objects.all()
+    themes = editor_themes.objects.all()
+    return render_to_response('online_editor.html', {'languages': languages, 'themes': themes})
 
 def logout_user(request):
     logout(request)

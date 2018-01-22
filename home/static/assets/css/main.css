@@ -2,15 +2,37 @@
 	width: 60%;
 }
 
+.editor_header{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .inlineBlock{
 	display: inline-block;
 }
 h1, h2, h3, h4, h5, h6, p, ul{
 	margin: 0;
+	color: #000 !important;
 }
 
 *{
 	outline: 0;
+}
+
+.editor_dropdown{
+    width: 100px;
+    display: inline-block;
+}
+
+#editor {
+	position: absolute;
+    top: 60%;
+    right: 10%;
+    bottom: 60%;
+    left: 10%;
+    z-index: 0;
+    height: 100%;
 }
 body {
 	padding:0;
@@ -20,7 +42,6 @@ body {
 
 
 html,body{
-	overflow-x: hidden;
 }
 
 /*Typography $typography*/
@@ -2971,6 +2992,8 @@ h4 + .recent-post{
 /*Footer $footer*/
 
 footer{
+    position:fixed;
+    bottom:0;
 	background-color: #213c50;
 	margin-top: 50px;
 }
@@ -3291,6 +3314,9 @@ footer .botbar{
 }
 
 @media (max-width: 767px) {
+    .language_theme{
+        display: block;
+    }
 
 	.navbar-collapse{
 		position: absolute;

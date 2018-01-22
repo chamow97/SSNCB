@@ -64,4 +64,18 @@ class choices(models.Model):
         return "Q Id: " + str(self.question_id) +\
                ", Choice: " + str(self.choice)
 
+class editor_themes(models.Model):
+    theme_name = models.CharField(max_length=100)
+    theme_id = models.CharField(max_length=100)
+
+    def __str__(self):
+        return str(self.theme_name)
+
+class editor_language(models.Model):
+    language_name = models.CharField(max_length=100)
+    language_id = models.CharField(max_length=100)
+
+    def __str__(self):
+        return str(self.language_name)
+
     
