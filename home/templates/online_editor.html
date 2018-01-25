@@ -2,12 +2,15 @@
 {% block content %}
     <br>
     <div class="row">
-        <div class="col col-sm-offset-1 col-md-offset-3 col-lg-offset-3 col-xs-offset-1">
+        <div class="col col-sm-offset-1 col-md-offset-2 col-lg-offset-2 col-xs-offset-1">
             <div class="form-group">
                 <label for="select_language">Select Language: </label>
                 <select id="language" class="form-control editor_dropdown select_language">
                     {% for language in languages %}
                         <option>{{ language.language_name }}</option>
+                    {% endfor %}
+                    {% for language in languages %}
+                        <input id="{{ language.language_name }}" hidden value="{{ language.language_id }}">
                     {% endfor %}
                 </select>
                 <label style="margin-left: 100px" for="select_language">Select Theme: </label>
@@ -15,7 +18,24 @@
                     {% for theme in themes %}
                         <option>{{ theme.theme_name }}</option>
                     {% endfor %}
+                    {% for theme in themes %}
+                        <input id="{{ theme.theme_name }}" hidden value="{{ theme.theme_id }}">
+                    {% endfor %}
                 </select>
+                <label style="margin-left: 100px" for="select_language">Font Size: </label>
+                <select id="font-size" class="form-control editor_dropdown select_language">
+                    <option>12</option>
+                    <option>14</option>
+                    <option selected>16</option>
+                    <option>18</option>
+                    <option>20</option>
+                    <option>22</option>
+                    <option>24</option>
+                    <option>26</option>
+                    <option>28</option>
+                    <option>30</option>
+                </select>
+
             </div>
         </div>
         <div class="col col-sm-offset-5 col-md-offset-5 col-lg-offset-5 col-xs-offset-5">
@@ -34,14 +54,22 @@ int main(){
         </div>
         <script>
         var editor = ace.edit("editor");
-        editor.setTheme("ace/theme/clouds_midnight");
+        editor.setTheme("ace/theme/twilight");
         editor.session.setMode("ace/mode/c_cpp");
         editor.setOptions({
-          fontSize: "15pt"
+          fontSize: "16pt"
         });
         function changeLanguageTheme() {
             var language = document.getElementById("language").value;
             var theme = document.getElementById("theme").value;
+            var fontSize = document.getElementById("font-size").value;
+            var themeId = document.getElementById(theme.toString()).value;
+            var languageId = document.getElementById(language.toString()).value;
+            editor.setOptions({
+                fontSize: fontSize + "pt"
+            });
+            editor.setTheme("ace/theme/" + themeId);
+            editor.session.setMode("ace/mode" + languageId);
         }
         </script>
     </div>

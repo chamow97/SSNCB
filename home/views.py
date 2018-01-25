@@ -59,7 +59,7 @@ def enter(request):
                 return render(request, 'login.html',
                               {'error_message': 'Incorrect Username / Password!'})
 
-    return render(request, 'login.html')
+    return render(request, 'index.html', {'login_message': 'Welcome ' + request.user.username})
 
 def online_editor(request):
     languages = editor_language.objects.all()
