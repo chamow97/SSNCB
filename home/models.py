@@ -74,6 +74,7 @@ class editor_themes(models.Model):
 class editor_language(models.Model):
     language_name = models.CharField(max_length=100)
     language_id = models.CharField(max_length=100)
+    sample_code = models.TextField(max_length=100000)
 
     def __str__(self):
         return str(self.language_name)

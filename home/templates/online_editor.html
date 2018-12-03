@@ -11,6 +11,7 @@
                     {% endfor %}
                     {% for language in languages %}
                         <input id="{{ language.language_name }}" hidden value="{{ language.language_id }}">
+                        <input id="{{ language.language_name }}sample" hidden value="{{ language.sample_code }}">
                     {% endfor %}
                 </select>
                 <label style="margin-left: 100px" for="select_language">Select Theme: </label>
@@ -65,11 +66,13 @@ int main(){
             var fontSize = document.getElementById("font-size").value;
             var themeId = document.getElementById(theme.toString()).value;
             var languageId = document.getElementById(language.toString()).value;
+            var sampleCode = document.getElementById(language.toString() + "sample").value;
+            var editorObject = document.getElementById("editor");
             editor.setOptions({
                 fontSize: fontSize + "pt"
             });
             editor.setTheme("ace/theme/" + themeId);
-            editor.session.setMode("ace/mode" + languageId);
+            editor.session.setMode("ace/mode/" + languageId);
         }
         </script>
     </div>

@@ -51,7 +51,7 @@ def enter(request):
             if user is not None:
                 if user.is_active:
                     login(request, user)
-                    return render(request, 'index.html')
+                    return redirect('/')
                 else:
                     return render(request, 'login.html',
                                   {'error_message' : 'Your account has been disabled!'})
@@ -59,7 +59,7 @@ def enter(request):
                 return render(request, 'login.html',
                               {'error_message': 'Incorrect Username / Password!'})
 
-    return render(request, 'index.html', {'login_message': 'Welcome ' + request.user.username})
+    return render(request, 'login.html', {'login_message': 'Welcome ' + request.user.username})
 
 def online_editor(request):
     languages = editor_language.objects.all()
